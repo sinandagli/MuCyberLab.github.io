@@ -34,7 +34,6 @@ links:
   - title: About
     url: /about/
   - title: CTF
-    external: true
     url: https://ctf.mucyber.org
   - title: Contact
     url: /contact/
