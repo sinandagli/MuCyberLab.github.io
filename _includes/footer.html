@@ -33,7 +33,7 @@
     </p>
     <ul>
         {% for link in site.links %}
-          <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}<span> | </span></a>
+          <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a><span> | </span>
         {% endfor %}
         <a class="feed" href="{{ site.url }}{{site.baseurl}}/feed.xml" title="Atom/RSS feed">Feed</a>
     </ul>
