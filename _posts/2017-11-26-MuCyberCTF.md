@@ -2,16 +2,14 @@
 layout: post
 title: "Mu Cyber CTF 2017 Write-Ups"
 description: Mu​ ​Cyber​ ​ekibinin​ ​25-26​ ​Kasım​ ​ 2017 ​ ​tarihinde​ ​yapmış​ ​olduğu​ ​Capture​ ​The​ ​Flag yarışmasının​ ​sorularının​ ​çözümleridir.
-image: 'https://github.com/MuCyberLab/MuCyberLab.github.io/blob/master/assets/img/images/writeups.JPG'
-category: 'blog'
+category: 'writeups'
+tags:
+- ctf
+- writeups
+image: 'https://raw.githubusercontent.com/MuCyberLab/MuCyberLab.github.io/master/assets/img/images/writeups.JPG'
 twitter_text: Mu​ ​Cyber​ ​ekibinin​ ​25-26​ ​Kasım​ ​ 2017 ​ ​tarihinde​ ​yapmış​ ​olduğu​ ​Capture​ ​The​ ​Flag yarışmasının​ ​sorularının​ ​çözümleridir.
 introduction: Mu​ ​Cyber​ ​ekibinin​ ​25-26​ ​Kasım​ ​ 2017 ​ ​tarihinde​ ​yapmış​ ​olduğu​ ​Capture​ ​The​ ​Flag yarışmasının​ ​sorularının​ ​çözümleridir.
 ---
-
-# Mu​ ​Cyber​ ​CTF​ ​ 2017 ​ ​Write​ ​Ups
-
-Mu​ ​Cyber​ ​ekibinin​ ​25-26​ ​Kasım​ ​ 2017 ​ ​tarihinde​ ​yapmış​ ​olduğu​ ​Capture​ ​The​ ​Flag
-yarışmasının​ ​sorularının​ ​çözümleridir.
 
 ## Flag​ ​Form
 
@@ -331,4 +329,4 @@ grubunun​ ​ismi​ ​olan​ ​DEKSTRİN​ ​flag​ ​değeri​ ​ge
 flag:​ ​mucyb3r_{dekstrin}
 
 
-
+-----
