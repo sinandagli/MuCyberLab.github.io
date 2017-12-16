@@ -33,9 +33,9 @@
     </p>
     <ul>
         {% for link in site.links %}
-          <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+          <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}<span> | </span></a>
         {% endfor %}
-        <li><a class="feed" href="{{ site.url }}{{site.baseurl}}/feed.xml" title="Atom/RSS feed">Feed</a></li>
+        <a class="feed" href="{{ site.url }}{{site.baseurl}}/feed.xml" title="Atom/RSS feed">Feed</a>
     </ul>
     <p><span>© 2017</span>  MuCyber | Made with <svg class="love"><use xlink:href="#icon-heart"></use></svg> in Mugla</p>
 </footer>
