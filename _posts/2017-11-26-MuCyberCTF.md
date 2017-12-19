@@ -327,6 +327,3 @@ olimpiyatlarının​ ​yapıldığı​ ​yıllar​ ​yazıyordu.
 Yılları​ ​verilen​ ​sırayla​ ​yazdığımızda​ ​nişastanın​ ​hidroliz​ ​edilmesiyle​ ​oluşan​ ​karbonhidrat
 grubunun​ ​ismi​ ​olan​ ​DEKSTRİN​ ​flag​ ​değeri​ ​geliyordu.
 flag:​ ​mucyb3r_{dekstrin}
-
-
------
