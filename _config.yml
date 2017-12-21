@@ -20,7 +20,7 @@ twitter_username: MuCyberLab
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: /:title/
+permalink: blog/:title-D:year:month:day.html
 
 # Plugins
 gems:
