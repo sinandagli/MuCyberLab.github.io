@@ -15,7 +15,7 @@ Ekibimiz 2016 yılında Mühendislik Fak. NetSecLab ortamında çalışma yapan 
 
 # MİSYON
 
-Üniversitemizi CTF yarışmalarında temsil etmek,her sene düzenleyeceğimiz CTF yarışmalarıyla ekibimize güç katmak ve yapacğımız eğitimlerle siber güvenlik hakkında farkındalığın artmasını sağlamak hedefimizdir.
+Üniversitemizi CTF yarışmalarında temsil etmek,her sene düzenleyeceğimiz CTF yarışmalarıyla ekibimize güç katmak ve yapacağımız eğitimlerle siber güvenlikde farkındalığın artmasını sağlamak hedefimizdir.
 
 # VİZYON
 
