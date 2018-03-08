@@ -6,7 +6,6 @@ image: "https://raw.githubusercontent.com/MuCyberLab/MuCyberLab.github.io/master
 permalink: /ihe/
 ---
  [![image](https://raw.githubusercontent.com/MuCyberLab/MuCyberLab.github.io/master/assets/img/images/MuCyberIHE.jpg)]() 
-<iframe src="https://calendar.google.com/calendar/b/2/embed?title=Mu-Cyber%20%C4%B0nternet%20Haftas%C4%B1%20Etkinlikleri&amp;showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=DAY&amp;dates=20180411/20180411&amp;height=600&amp;wkst=1&amp;hl=tr&amp;bgcolor=%23ffffff&amp;src=mucyberlab%40gmail.com&amp;color=%23141414&amp;ctz=Europe%2FIstanbul" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # İnternet Haftası Nedir?
 
@@ -35,5 +34,11 @@ olanakları ölçüsünde katkıda bulunmaya çağırıyoruz.</blockquote>
 
 Mu Cyber ekibi olarak biz de bu yıl internet haftasında 11 nisan gününde üstümüze düşen görevi yerine getirebilmek adına Siber Güvenlik Günü ilan ettik. Gün boyunca sürecek olan sunumlar, konferanslar, ctf yarışması, eğitimler ve bir çok sosyal aktivite de sizleri bekliyor olacak. 
 
+Etkinlikte Hacker 101 ve Kaynak Kod Analizi eğitimleri olarak iki ayrı eğitim verilecektir.
 Eğitimlerde kontenjan sınırlı ve kayıtlar ücretsizdir.
 Eğitimlere başvuru linki [https://goo.gl/forms/rIDpxqTX6COVVlYK2](https://goo.gl/forms/rIDpxqTX6COVVlYK2)
+
+#Günün Programı
+
+<iframe src="https://calendar.google.com/calendar/b/2/embed?title=Mu-Cyber%20%C4%B0nternet%20Haftas%C4%B1%20Etkinlikleri&amp;showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=DAY&amp;dates=20180411/20180411&amp;height=600&amp;wkst=1&amp;hl=tr&amp;bgcolor=%23ffffff&amp;src=mucyberlab%40gmail.com&amp;color=%23141414&amp;ctz=Europe%2FIstanbul" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
