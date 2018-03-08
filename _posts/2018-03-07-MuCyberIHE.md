@@ -11,7 +11,6 @@ tags:
 - ctf
 - writeups
 ---
- [![image](https://raw.githubusercontent.com/MuCyberLab/MuCyberLab.github.io/master/assets/img/images/MuCyberIHE.jpg)]() 
 
 # İnternet Haftası Nedir?
 
