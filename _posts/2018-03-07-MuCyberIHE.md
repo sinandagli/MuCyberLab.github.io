@@ -12,4 +12,4 @@ tags:
 - writeups
 ---
 
-# Detaylı bilgi için [https://www.mucyber.org/ihe](www.mucyber.org/ihe)
+# Detaylı bilgi için [www.mucyber.org/ihe](https://www.mucyber.org/ihe)
