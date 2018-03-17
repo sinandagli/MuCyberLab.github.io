@@ -3,6 +3,8 @@ layout: post
 title: İnternet Haftası Etkinlikleri
 description: About Activities
 image: "https://raw.githubusercontent.com/MuCyberLab/MuCyberLab.github.io/master/assets/img/images/MuCyberIHE.jpg"
+redirect_to:
+  - https://www.mucyber.org/ihe
 permalink: /ihe1/
 category: 'Activity'
 tags:
